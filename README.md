@@ -26,6 +26,7 @@ _Change this to fit your needs when you have started the project._
     - "Visualisation" for "Analysis and Visualisation".
     - "Modelling" for "Statistical Modelling".
 - `deprecated`: A folder to store "old code" that I experimented with, but decided to not go ahead.
+- `external_data`: Contains all the external data files, in this case weather data for January - March 2019-2020.
 
 # Other
 _Feel free to add any other information that you deem useful._
